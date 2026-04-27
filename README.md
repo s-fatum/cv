@@ -13,7 +13,7 @@
 
 - 🛠 **Специализация:** Проектирование отказоустойчивых бэкендов, оптимизация SQL, работа с транзакциями (ACID) и очередями.
 - 🤖 **AI-Driven Dev:** Активно внедряю AI-агентов в процесс разработки для валидации архитектуры, рефакторинга и ускорения написания тестов.
-- 🏗 **Стек:** PHP 8.3 (Symfony, Laravel), PostgreSQL, RabbitMQ, Redis, ClickHouse, Docker.
+- 🏗 **Стек:** PHP 8.3 (Symfony, Laravel, YII2), PostgreSQL, RabbitMQ, Redis, ClickHouse, Docker.
 
 ---
 
