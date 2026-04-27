@@ -36,10 +36,6 @@
 Основная коммерческая и проектная деятельность ведется в **GitLab**, где сосредоточена основная кодовая база и CI/CD процессы.
 
 <p align="left">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=SFatum&show_icons=true&theme=tokyonight" alt="GitLab Stats" />
-</p>
-
-<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=s-fatum&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-fatum&layout=compact&theme=tokyonight" />
 </p>
